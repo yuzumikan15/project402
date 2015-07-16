@@ -1,2 +1,0 @@
-# project402
-hubot
